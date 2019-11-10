@@ -1,2 +1,3 @@
 # Functional-Programming
-small fucntional programming POCs 
+
+small functional programming POCs
